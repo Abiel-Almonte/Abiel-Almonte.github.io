@@ -22,6 +22,42 @@ url: "https://Abiel-Almonte.github.io" # the base hostname & protocol for your s
 twitter_username: none
 github_username:  Abiel-Almonte
 
+# Minimal Mistakes theme settings
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Author
+author:
+  name: "Abiel Almonte"
+  avatar: # "/assets/images/bio-photo.jpg"
+  bio: "My personal website and projects"
+  location: 
+  email: "abielalmonte.eng@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Abiel-Almonte"
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
