@@ -94,12 +94,13 @@ permalink: /projects/
           <span class="skill">Real-time Systems</span>
           <span class="skill">CUDA</span>
           <span class="skill">PyTorch</span>
-          <span class="skill">V4l2</span>
+          <span class="skill">V4L2</span>
         </div>
         <p>
           Real-time image classification with ultra-low latency by ditching OpenCV and building optimized pipeline from scratch. Cut end-to-end latency to a fraction of the original time.
         </p>
         <div class="project-links">
+          [<a href="/projects/vision-rt">deepdive blog</a>]
           [<a href="https://github.com/Abiel-Almonte/vision-rt">github</a>]
         </div>
       </td>
