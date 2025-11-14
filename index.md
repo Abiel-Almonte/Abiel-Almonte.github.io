@@ -22,7 +22,7 @@ permalink: /
   }
 </style>
 
-![pfp](.IMG_5319.jpg)
+![](IMG_5319.jpg)
 {: .profile-img}
 
 # Hello, I'm Abiel
