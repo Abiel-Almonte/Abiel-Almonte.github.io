@@ -32,7 +32,7 @@ permalink: /projects/
 </style>
 
 <div class="project">
-  <img src="vision-rt.png" alt="Vision-RT" class="project-image">
+  <img src="/vision-rt.png" alt="Vision-RT" class="project-image">
   <div class="project-content">
     <h2>Vision-RT</h2>
     <strong>Real-time image classification with ultra-low latency</strong>
