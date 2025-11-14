@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 Hello, I'm Abiel. I am an undergraduate computer engineer at Florida International University.
