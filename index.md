@@ -1,5 +1,6 @@
 ---
 layout: default
+classes: wide
 ---
 
 Hello, I'm Abiel. I am an undergraduate computer engineer at Florida International University.
