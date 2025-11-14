@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: page
 ---
 
-Hello, I'm Abiel. I am an undergraduate computer engineer at Florida International University. My primary focus lies in hardware-aware programming to accelerate machine learning inference. Often utilizing CUDA, C++, and PyTorch alongside profiling tools to guide my optimizations.
+Hello, I'm Abiel. I am an undergraduate computer engineer at Florida International University.
+
+My primary focus lies in hardware-aware programming to accelerate machine learning inference. Often utilizing CUDA, C++, and PyTorch alongside profiling tools to guide my optimizations.
 
 I am motivated by the human experience my optimizations bring to the end-user and the real-time feedback loop of collaborating on unsolved problems, especially in real-time systems for embodied AI.
