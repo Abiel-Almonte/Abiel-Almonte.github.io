@@ -31,9 +31,9 @@ My primary focus lies in hardware-aware programming to accelerate machine learni
 
 I am motivated by the human experience my optimizations bring to the end-user and the real-time feedback loop of collaborating on unsolved problems, especially in real-time systems for embodied AI.
 
-<small>Previously interned at NVIDIA and FIU ARC, building LLM serving, retrieval, and deployment infrastructure, as well as experimenting with compiler front-ends for parsing domain-specific languages.</small>
+<small>Previously interned at NVIDIA [ChipNemo](https://research.nvidia.com/publication/2023-10_chipnemo-domain-adapted-llms-chip-design) team and supervised by [Dr. Himanshu Upadhyay](https://arc.fiu.edu/staff/himanshu-upadhyay/) at [FIU ARC](https://arc.fiu.edu/research/information-technology/applied-artificial-intelligence/), building LLM serving, retrieval, and deployment infrastructure, as well as experimenting with compiler front-ends for parsing domain-specific languages.</small>
 
 ## Activity
 - Currently: I'm working on a project for real-time 3D reconstruction. Providing [Splat-SLAM](https://github.com/google-research/Splat-SLAM) with a production-grade, low-latency infrastructure, from camera drivers to visualization.
 - Nov 2025: Excited to share that I will be joining Apple AIML this summer as a Machine Learning Intern, possibly working on efficient on-device computer vision!
-- Sept 2025: Check out how I ditched OpenCV and cut e2e latency for image classification to a fraction of the original time!
+- Sept 2025: Check out [here](https://github.com/Abiel-Almonte/vision-rt) how I ditched OpenCV and cut e2e latency for image classification to a fraction of the original time!
